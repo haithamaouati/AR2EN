@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Arabic to English Converter</title>
   <style>
     body {
       font-family: Arial, sans-serif;
+      text-align: center;
     }
 
     textarea {
-      width: 400px;
+      width: 90%;
       height: 200px;
+      margin: 10px;
+    }
+
+    button {
       margin: 10px;
     }
   </style>
@@ -22,11 +28,13 @@
     <br>
     <label for="output-text">Output Text:</label>
     <textarea id="output-text" readonly></textarea>
+    <br>
   </form>
+  <p>Made with ❤️ by Haitham Aouati</p>
   <script>
     function convertText() {
       var inputText = document.getElementById("input-text").value;
-      var outputText = inputText.replace(/أ/g, "a").replace(/إ/g, "i").replace(/آ/g, "aa").replace(/ب/g, "b").replace(/ت/g, "t").replace(/ث/g, "th").replace(/ج/g, "j").replace(/ح/g, "7").replace(/خ/g, "kh").replace(/د/g, "d").replace(/ذ/g, "th").replace(/ر/g, "r").replace(/ز/g, "z").replace(/س/g, "s").replace(/ش/g, "sh").replace(/ص/g, "s").replace(/ض/g, "d").replace(/ط/g, "t").replace(/ظ/g, "th").replace(/ع/g, "3").replace(/غ/g, "gh").replace(/ف/g, "f").replace(/ق/g, "q").replace(/ك/g, "k").replace(/ل/g, "l").replace(/م/g, "m").replace(/ن/g, "n").replace(/ه/g, "h").replace(/و/g, "w").replace(/ي/g, "y").replace(/ئ/g, "a").replace(/ؤ/g, "o").replace(/ء/g, "e").replace(/؟/g, "?");
+      var outputText = inputText.replace(/أ/g, "a").replace(/ا/&, "a").replace(/إ/g, "i").replace(/آ/g, "aa").replace(/ب/g, "b").replace(/ت/g, "t").replace(/ث/g, "th").replace(/ج/g, "j").replace(/ح/g, "7").replace(/خ/g, "kh").replace(/د/g, "d").replace(/ذ/g, "th").replace(/ر/g, "r").replace(/ز/g, "z").replace(/س/g, "s").replace(/ش/g, "sh").replace(/ص/g, "s").replace(/ض/g, "d").replace(/ط/g, "t").replace(/ظ/g, "th").replace(/ع/g, "3").replace(/غ/g, "gh").replace(/ف/g, "f").replace(/ق/g, "q").replace(/ك/g, "k").replace(/ل/g, "l").replace(/م/g, "m").replace(/ن/g, "n").replace(/ه/g, "h").replace(/و/g, "w").replace(/ي/g, "y").replace(/ئ/g, "a").replace(/ؤ/g, "o").replace(/ء/g, "e").replace(/؟/g, "?");
       document.getElementById("output-text").value = outputText;
     }
   </script>
