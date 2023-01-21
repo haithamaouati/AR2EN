@@ -23,9 +23,9 @@ Arabic to English converter
 
 ## Usage
 ###### Input text
-This filed for input arabic letters
+Input Field for Arabic Letters
 ###### Output text
-This filed for output english letters.
+Output Field for English Letters
 
 ## Author
 Made with :heart: by **Haitham Aouati**
