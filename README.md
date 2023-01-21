@@ -22,8 +22,15 @@ ___
 ## Usage
 ###### Input Text
 Input Field for Arabic Letters
+```
+مرحبا
+```
+
 ###### Output Text
 Output Field for English Letters
+```
+mr7ba
+```
 
 ## Author
 Made with :heart: by **Haitham Aouati**
