@@ -15,22 +15,8 @@ ___
 
 ## Table of Contents
 
-- [Usage](#usage)
 - [Author](#author)
 - [License](#license)
-
-## Usage
-###### Input Text
-Input Field for Arabic Letters
-```
-مرحبا
-```
-
-###### Output Text
-Output Field for English Letters
-```
-mr7ba
-```
 
 ## Author
 Made with :heart: by **Haitham Aouati**
