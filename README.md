@@ -13,7 +13,7 @@ ___
 # AR2EN
 [AR2EN](https://haithamaouati.github.io/ar2en) — **Arabic** to **English** converter
 
-You want to convert a text from **Arabic** to **English** characters so that you can read it with ease? Below you will find a romanization or transliteration tool that will help you do just that. That way, you will be able to read words the way they sound phonetically.
+You want to convert a text from **Arabic** to **English** characters so that you can read it with ease? Below you will find a **romanization** or **transliteration** tool that will help you do just that. That way, you will be able to read words the way they sound phonetically.
 
 ## Table of Contents
 
