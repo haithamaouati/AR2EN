@@ -17,12 +17,18 @@ You want to convert a text from **Arabic** to **English** characters so that you
 
 ## Table of Contents
 - [Demo](#demo)
+- [Letters](#letters)
 - [Author](#author)
 - [License](#license)
 
 ## Demo
 Site is live at
 [https://haithamaouati.github.io/ar2en](https://haithamaouati.github.io/ar2en)
+
+## Letters
+Arabic | English
+--- | ---
+ا|a
 
 ## Author
 Made with :heart: by **Haitham Aouati**
