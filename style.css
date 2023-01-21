@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+textarea {
+  width: 90%;
+  height: 200px;
+  margin: 10px;
+}
+
+#input-text {
+  direction: ltr;
+}
+
+button {
+  margin
