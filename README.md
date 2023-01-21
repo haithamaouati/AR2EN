@@ -11,15 +11,16 @@ ___
  /_/   \_\_| \_\_____|_____|_| \_| 
 ```
 # AR2EN
-[AR2EN](https://haithamaouati.github.io/daziri/) — **Arabic** to **English** converter
-
-> **Note**:
-> If you like it, Give it a:star:
+[AR2EN](https://haithamaouati.github.io/ar2en) — **Arabic** to **English** converter
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Author](#author)
 - [License](#license)
+
+## Demo
+[https://haithamaouati.github.io/ar2en](https://haithamaouati.github.io/ar2en)
 
 ## Author
 Made with :heart: by **Haitham Aouati**
