@@ -16,12 +16,12 @@ ___
 You want to convert a text from **Arabic** to **English** characters so that you can read it with ease? Below you will find a **romanization** or **transliteration** tool that will help you do just that. That way, you will be able to read words the way they sound phonetically.
 
 ## Table of Contents
-
 - [Demo](#demo)
 - [Author](#author)
 - [License](#license)
 
 ## Demo
+Site is live at
 [https://haithamaouati.github.io/ar2en](https://haithamaouati.github.io/ar2en)
 
 ## Author
