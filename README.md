@@ -4,7 +4,11 @@
 ![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/ar2en?logo=law)
 ___
 ```
-Ar
+     _    ____  ____  _____ _   _  
+    / \  |  _ \|___ \| ____| \ | | 
+   / _ \ | |_) | __) |  _| |  \| | 
+  / ___ \|  _ < / __/| |___| |\  | 
+ /_/   \_\_| \_\_____|_____|_| \_| 
 ```
 # AR2EN
 Arabic to English converter
