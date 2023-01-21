@@ -11,7 +11,7 @@ ___
  /_/   \_\_| \_\_____|_____|_| \_| 
 ```
 # AR2EN
-Arabic to English converter
+AR2EN — Arabic to English converter
 
 [AR2EN](https://haithamaouati.github.io/daziri/)
 
@@ -22,9 +22,9 @@ Arabic to English converter
 - [License](#license)
 
 ## Usage
-###### Input text
+###### Input Text
 Input Field for Arabic Letters
-###### Output text
+###### Output Text
 Output Field for English Letters
 
 ## Author
