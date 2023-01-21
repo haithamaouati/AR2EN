@@ -22,7 +22,7 @@ You want to convert a text from **Arabic** to **English** characters so that you
 - [License](#license)
 
 ## Demo
-Site is live at
+Version: **2.0**
 [https://haithamaouati.github.io/ar2en](https://haithamaouati.github.io/ar2en)
 
 ## Letters
@@ -31,7 +31,7 @@ Arabic | English
 ا|a
 أ|a
 آ|a
-إ|e
+إ|i
 ب|b
 ت|t
 ث|th
