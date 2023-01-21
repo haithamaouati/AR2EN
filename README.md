@@ -11,9 +11,7 @@ ___
  /_/   \_\_| \_\_____|_____|_| \_| 
 ```
 # AR2EN
-AR2EN — Arabic to English converter
-
-[AR2EN](https://haithamaouati.github.io/daziri/)
+[AR2EN](https://haithamaouati.github.io/daziri/) — Arabic to English converter
 
 ## Table of Contents
 
