@@ -3,6 +3,9 @@
 ![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/ar2en?logo=repo-forked)
 ![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/ar2en?logo=law)
 ___
+```
+Ar
+```
 # AR2EN
 Arabic to English converter
 
@@ -24,4 +27,6 @@ This filed for output english letters.
 Made with :heart: by **Haitham Aouati**
 
 ## License
-This project is released under the [Unlicense](https://github.com/haithamaouati/BBQ/blob/main/LICENSE). This means that you are free to use, modify, and distribute the code as you see fit, without any restrictions.
+This repository is under [Unlicense License](https://github.com/haithamaouati/ar2en/blob/main/LICENSE).
+
+([Table of Contents](#table-of-contents))
