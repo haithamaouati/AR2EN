@@ -29,6 +29,42 @@ Site is live at
 Arabic | English
 --- | ---
 ا|a
+أ|a
+آ|a
+إ|e
+ب|b
+ت|t
+ث|th
+ج|j
+ح|h
+خ|kh
+د|d
+ذ|d
+ر|r
+ز|z
+س|s
+ش|sh
+ص|s
+ض|d
+ط|t
+ظ|z
+ع|'e
+غ|gh
+ف|f
+ق|q
+ك|k
+ل|l
+م|m
+ن|n
+ه|h
+و|w
+ي|y
+ى|a
+ئ|'e
+ء|'
+ئ|'e
+لا|la
+ة|h-
 
 ## Author
 Made with :heart: by **Haitham Aouati**
