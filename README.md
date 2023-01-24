@@ -18,7 +18,6 @@ You want to convert a text from **Arabic** to **English** characters so that you
 ## Table of Contents
 - [Demo](#demo)
 - [Romanization](#romanization)
-  - [Function](#function)
   - [Table of Characters](#table-of-characters)
 - [Author](#author)
 - [License](#license)
@@ -29,8 +28,7 @@ Version: **3.0**
 
 ## Romanization
 
-###### Function
-Here is a function flow chart:
+**Flowchart** — How it works?
 
 ```mermaid
 graph TD;
