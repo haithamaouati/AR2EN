@@ -27,7 +27,7 @@ Version: **3.0**
 
 ## Letters
 
-Here is a simple flow chart:
+Here is a function flow chart:
 
 ```mermaid
 graph TD;
@@ -36,12 +36,14 @@ graph TD;
     ت-->t;
 ```
 
+###### Table of Characters
+
 Arabic | English
 --- | ---
 ا|a
 أ|a
+إ|a
 آ|a
-إ|i
 ب|b
 ت|t
 ث|th
@@ -49,7 +51,7 @@ Arabic | English
 ح|h
 خ|kh
 د|d
-ذ|d
+ذ|dh
 ر|r
 ز|z
 س|s
@@ -57,8 +59,8 @@ Arabic | English
 ص|s
 ض|d
 ط|t
-ظ|z
-ع|'e
+ظ|th
+ع|aa
 غ|gh
 ف|f
 ق|q
@@ -69,12 +71,17 @@ Arabic | English
 ه|h
 و|w
 ي|y
+ئ|a
+ء|a
+ؤ|u
+ئ|i
+ة|h
 ى|a
-ئ|'e
-ء|'
-ئ|'e
-لا|la
-ة|h-
+،|,
+؛|;
+؟|?
+؛|:
+!|!
 
 ## Author
 Made with :heart: by **Haitham Aouati**
