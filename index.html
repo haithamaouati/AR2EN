@@ -29,6 +29,7 @@
   /_/   \_\_| \_\_____|_____|_| \_|
   </pre>
   <p>AR2EN — <b>Arabic</b></a> to <b>English</b> Converter</p>
+  <hr style="width:50%">
   <form>
     <label for="input">Input Text:</label>
     <textarea id="input" dir="rtl" placeholder="هنا النص المدخل..." oninput="convert()"></textarea>
@@ -37,6 +38,14 @@
     <textarea id="output" placeholder="Here is the output text..." readonly></textarea>
     <br>
   </form>
+  <p>Here is a <b>function</b> flow chart</p>
+  <div class="mermaid">
+  graph TD;
+      ا-->a;
+      ب-->b;
+      ت-->t;
+  </div>
+  <hr>
   <p><small>Version: <b>3.0</b></small></p>
   <a class="github-button" href="https://github.com/haithamaouati/ar2en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star haithamaouati/ar2en on GitHub">Star</a>
   <p>Made with &#10084; by <b>Haitham Aouati</b></p>
@@ -89,8 +98,11 @@
 
         document.getElementById("output").value = outputText;
     }
+
+    mermaid.initialize({startOnLoad:true});
   </script>
 
   <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.5.2/dist/mermaid.min.js"></script>
 </body>
 </html>
