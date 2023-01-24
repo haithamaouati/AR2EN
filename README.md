@@ -22,7 +22,7 @@ You want to convert a text from **Arabic** to **English** characters so that you
 - [License](#license)
 
 ## Demo
-Version: **2.0**
+Version: **3.0**
 [https://haithamaouati.github.io/ar2en](https://haithamaouati.github.io/ar2en)
 
 ## Letters
