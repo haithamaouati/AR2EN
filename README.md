@@ -32,6 +32,8 @@ Here is a simple flow chart:
 ```mermaid
 graph TD;
     ا-->a;
+    ب-->b;
+    ت-->t;
 ```
 
 Arabic | English
