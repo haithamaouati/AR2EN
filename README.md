@@ -17,7 +17,9 @@ You want to convert a text from **Arabic** to **English** characters so that you
 
 ## Table of Contents
 - [Demo](#demo)
-- [Letters](#letters)
+- [Romanization](#romanization)
+  - [Function](#function)
+  - [Table of Characters](#table-of-characters)
 - [Author](#author)
 - [License](#license)
 
@@ -25,8 +27,9 @@ You want to convert a text from **Arabic** to **English** characters so that you
 Version: **3.0**
 [https://haithamaouati.github.io/AR2EN](https://haithamaouati.github.io/AR2EN/)
 
-## Letters
+## Romanization
 
+###### Function
 Here is a function flow chart:
 
 ```mermaid
