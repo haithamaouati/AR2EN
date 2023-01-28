@@ -61,7 +61,7 @@ Arabic | English
 ض|d
 ط|t
 ظ|th
-ع|aa
+ع|3
 غ|gh
 ف|f
 ق|q
